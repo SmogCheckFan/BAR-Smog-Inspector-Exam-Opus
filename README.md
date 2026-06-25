@@ -21,7 +21,7 @@ Whether you're a new tech, a seasoned pro refreshing your knowledge, or an instr
 
 ## 🚀 How to Use
 
-1. Open the live site: **[Insert your live URL here, e.g., https://smogcheckfan.github.io/BAR-Smog-Inspector-Opus/]**
+1. Open the live site: https://smogcheckfan.github.io/BAR-Smog-Inspector-Opus/
 2. Click **Start Exam**.
 3. Answer each question to the best of your ability.
 4. Use the **Flag** button for questions you want to double-check.
