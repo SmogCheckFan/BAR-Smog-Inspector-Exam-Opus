@@ -34,7 +34,7 @@ I've built multiple versions using different AI models to maximize question vari
 | Simulator | Partner | Questions | Status | Link |
 |-----------|---------|-----------|--------|------|
 | DeepSeek Edition | DeepSeek | 320 | ✅ Live | [Take me there](https://smogcheckfan.github.io/BAR-Smog-Inspector-Simulator/) |
-| Opus Edition | Opus | 420 | ✅ Live | [Take me there](https://smogcheckfan.github.io/BAR-Smog-Inspector-Opus/) |
+| Opus Edition | Opus | 420 | ✅ Live | [Take me there](https://smogcheckfan.github.io/BAR-Smog-Inspector-Exam-Opus/) |
 | Qwen Edition | Qwen | 319 | 🚀 Coming Soon | — |
 | *(More coming soon)* | — | — | 🏗️ In progress | — |
 
