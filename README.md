@@ -18,7 +18,7 @@ Whether you're a new tech, a seasoned pro refreshing your knowledge, or an instr
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="01-exam-question.png" width="45%" alt="Scenario-based exam question with multiple-choice answers and live stats" />
+  <img src="01-exam-question-1.png" width="45%" alt="Scenario-based exam question with multiple-choice answers and live stats" />
   &nbsp;&nbsp;
   <img src="02-answer-explanation.png" width="45%" alt="Instant feedback with a detailed explanation citing reference material" />
 </p>
